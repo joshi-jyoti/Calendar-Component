@@ -1,4 +1,4 @@
-# Wall Calendar Component
+# Calendar Component
 
 A React + TypeScript calendar UI that mimics a physical hanging wall calendar with a visual spiral binding and page-turn month transitions.
 
